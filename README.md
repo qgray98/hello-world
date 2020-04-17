@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hey everyone
+
+I like javascript and nachos!!
